@@ -3,7 +3,13 @@ module.exports = {
 
   extends: 'airbnb-base',
 
+  plugins: [
+    'babel',
+  ],
+
   rules: {
     'arrow-parens': ['error', 'as-needed'],
+
+    'babel/new-cap': 'warning',
   },
 };
