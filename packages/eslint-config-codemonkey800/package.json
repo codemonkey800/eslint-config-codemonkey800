@@ -3,8 +3,11 @@
   "version": "0.1.2",
   "description": "This is the base ESlint configuration targeted toward general JavaScript development.",
   "dependencies": {
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.0.0-alpha.15",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.7.0"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0"
   }
 }

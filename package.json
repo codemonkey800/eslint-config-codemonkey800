@@ -12,10 +12,8 @@
   "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (http://jeremyasuncion.io)",
   "license": "MIT",
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
     "eslint": "^3.19.0",
-    "eslint-config-airbnb-base": "^11.2.0",
-    "eslint-plugin-import": "^2.7.0",
+    "eslint-config-codemonkey800": "^0.1.2",
     "lerna": "^2.0.0"
   }
 }

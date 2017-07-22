@@ -699,6 +699,14 @@ eslint-config-airbnb-base@^11.2.0:
   version "11.2.0"
   resolved "https://registry.yarnpkg.com/eslint-config-airbnb-base/-/eslint-config-airbnb-base-11.2.0.tgz#19a9dc4481a26f70904545ec040116876018f853"
 
+eslint-config-codemonkey800@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/eslint-config-codemonkey800/-/eslint-config-codemonkey800-0.1.2.tgz#d0bed4341dfa137833c41b3f31e75c764b74d973"
+  dependencies:
+    babel-eslint "^7.2.3"
+    eslint-config-airbnb-base "^11.2.0"
+    eslint-plugin-import "^2.7.0"
+
 eslint-import-resolver-node@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.1.tgz#4422574cde66a9a7b099938ee4d508a199e0e3cc"
