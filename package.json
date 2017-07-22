@@ -4,7 +4,8 @@
   "license": "MIT",
   "description": "My personal ESlint conifgs. Extension of AirBnb with additional plugins and rule overrides.",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "postinstall": "lerna bootstrap"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
