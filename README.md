@@ -1,5 +1,13 @@
 # codemonkey800's ESlint Configs
 
+[![npm version](https://badge.fury.io/js/eslint-config-codemonkey800.svg)](https://badge.fury.io/js/eslint-config-codemonkey800)
+
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-by-hipsters.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/uses-js.svg)](http://forthebadge.com)
+
+---
+
 My personal ESlint configs. Extension of AirBnb with additional plugins and rule
 overrides.
 
