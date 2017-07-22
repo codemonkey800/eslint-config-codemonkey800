@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-codemonkey800",
+  "version": "0.1.0",
+  "description": "My personal ESlint conifgs. Extension of AirBnb with additional plugins and rule overrides.",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "gh:me/eslint-config-codemonkey800"
+  },
+  "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (http://jeremyasuncion.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0",
+    "lerna": "^2.0.0"
+  }
+}

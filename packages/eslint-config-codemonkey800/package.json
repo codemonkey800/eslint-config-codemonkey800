@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-codemonkey800",
+  "version": "0.1.0",
+  "dependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}

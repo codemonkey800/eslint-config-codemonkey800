@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-codemonkey800-vue",
+  "version": "0.1.0",
+  "dependencies": {
+    "eslint-config-codemonkey800": "^0.1.0",
+    "eslint-plugin-vue": "^3.7.0",
+    "vue-eslint-parser": "^1.0.0"
+  }
+}
