@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-codemonkey800-react",
   "version": "0.1.1",
+  "description": "This is an ESlint config targeted toward React.js development.",
   "dependencies": {
     "eslint-config-airbnb": "^15.0.2",
     "eslint-config-codemonkey800": "^0.1.1",

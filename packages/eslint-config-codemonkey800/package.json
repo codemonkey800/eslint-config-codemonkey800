@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-codemonkey800",
   "version": "0.1.1",
+  "description": "This is the base ESlint configuration targeted toward general JavaScript development.",
   "dependencies": {
     "babel-eslint": "^7.2.3",
     "eslint-config-airbnb-base": "^11.2.0",

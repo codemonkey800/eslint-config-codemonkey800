@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-codemonkey800-vue",
   "version": "0.1.1",
+  "description": "This is an ESlint config targeted toward Vue.js development.",
   "dependencies": {
     "eslint-config-codemonkey800": "^0.1.1",
     "eslint-plugin-vue": "^3.7.0",
