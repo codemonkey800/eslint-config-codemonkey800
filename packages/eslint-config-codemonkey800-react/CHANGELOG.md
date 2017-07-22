@@ -10,20 +10,3 @@ See [standard-version](https://github.com/conventional-changelog/standard-versio
 
 <a name="0.1.0"></a>
 # 0.1.0 (2017-07-22)
-
-
-
-
-<a name="0.1.0"></a>
-# 0.1.0 (2017-07-22)
-
-
-
-<a name="0.1.0"></a>
-# 0.1.0 (2017-07-22)
-
-
-
-
-<a name="0.1.0"></a>
-# 0.1.0 (2017-07-22)
