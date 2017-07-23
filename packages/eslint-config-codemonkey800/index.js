@@ -10,6 +10,6 @@ module.exports = {
   rules: {
     'arrow-parens': ['error', 'as-needed'],
 
-    'babel/new-cap': 'warning',
+    'babel/new-cap': 'warn',
   },
 };
