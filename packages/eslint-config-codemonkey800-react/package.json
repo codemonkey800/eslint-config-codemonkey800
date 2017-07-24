@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-codemonkey800-react",
   "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (https://jeremyasuncion.io)",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "This is an ESlint config targeted toward React.js development.",
   "repository": {
     "type": "git",
