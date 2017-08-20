@@ -8,9 +8,9 @@
     "url": "gh:me/eslint-config-codemonkey800"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^15.0.2",
+    "eslint-config-airbnb": "^15.1.0",
     "eslint-config-codemonkey800": "^0.3.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.1.0"
+    "eslint-plugin-react": "^7.2.1"
   }
 }
