@@ -8,8 +8,8 @@
     "postinstall": "lerna bootstrap"
   },
   "devDependencies": {
-    "eslint": "^4.6.1",
+    "eslint": "^4.8.0",
     "eslint-config-codemonkey800": "file:packages/eslint-config-codemonkey800",
-    "lerna": "^2.1.2"
+    "lerna": "^2.2.0"
   }
 }
