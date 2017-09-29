@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-codemonkey800",
   "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (https://jeremyasuncion.io)",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "This is the base ESlint configuration targeted toward general JavaScript development.",
   "repository": {
     "type": "git",
