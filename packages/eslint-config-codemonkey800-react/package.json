@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-codemonkey800-react",
   "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (https://jeremyasuncion.io)",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "This is an ESlint config targeted toward React.js development.",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "^16.1.0",
-    "eslint-config-codemonkey800": "^0.5.2",
+    "eslint-config-codemonkey800": "^0.5.3",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.4.0"
   }
