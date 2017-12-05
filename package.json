@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-codemonkey800",
-  "version": "0.5.3",
+  "version": "0.5.5",
   "license": "MIT",
   "description": "My personal ESlint conifgs. Extension of AirBnb with additional plugins and rule overrides.",
   "scripts": {
