@@ -1,14 +1,14 @@
 {
   "name": "eslint-config-codemonkey800-vue",
   "author": "Jeremy Asuncion <jeremyasuncion808@gmail.com> (https://jeremyasuncion.io)",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "This is an ESlint config targeted toward Vue.js development.",
   "repository": {
     "type": "git",
     "url": "gh:me/eslint-config-codemonkey800"
   },
   "dependencies": {
-    "eslint-config-codemonkey800": "^0.5.5",
+    "eslint-config-codemonkey800": "^0.5.6",
     "eslint-plugin-vue": "^4.0.0-beta.2",
     "vue-eslint-parser": "^2.0.1-beta.2"
   }
